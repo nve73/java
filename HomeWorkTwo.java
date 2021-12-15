@@ -19,7 +19,7 @@ class HomeWorkTwo {
     }
     
     static boolean comparSum (int a, int b) {
-        return ((a + b) > 10 && (a + b) < 20) ? true : false;
+        return ((a + b) > 10 && (a + b) < 20);
     }
     
     static void printNum (int a) {
@@ -27,7 +27,7 @@ class HomeWorkTwo {
     }
     
     static boolean comparNum (int a) {
-        return a < 0 ? true : false;
+        return a < 0;
     }
     
     static void printLine (String word, int a) {
