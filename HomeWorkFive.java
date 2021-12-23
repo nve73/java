@@ -1,3 +1,10 @@
+/**
+* Java 1. Homework #5
+*
+* @author Natalia Erokhova
+* @version 22.12.2021 - 23.12.2021
+*/
+
 class HomeWorkFive {
     public static void main (String[] args) {
         Person[] person = new Person [5];
