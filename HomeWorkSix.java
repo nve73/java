@@ -1,3 +1,11 @@
+/**
+* Java 1. Homework #6
+*
+* @author Natalia Erokhova
+* @version 25.12.2021 - 26.12.2021
+*/
+
+
 class HomeWorkSix {
     public static void main(String[] args) {
         Animal cat = new Cat("Murzik");
