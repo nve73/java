@@ -15,7 +15,7 @@ class HomeWorkFive {
         person[4] = new Person("Greck Max", "designer", "greck_m@office.com", "88009554545", 70000, 31);
         for (int i = 0; i < person.length; i++) {
             if (person[i].getAge() > 40) {
-                System.out.println(person[i].toString());
+                System.out.println(person[i]);
             }
         }
     }
